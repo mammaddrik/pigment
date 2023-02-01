@@ -23,7 +23,7 @@ export default function CircleColor() {
 
       <div className="circlecolor__title-box">
         <div className="circlecolor__title" id="circlecolor-title-2">
-          <h3>رنگ های اصلی</h3>
+          <h3>رنگ‌های اصلی</h3>
           <h5>
             رنگ‌های اصلی قرمز، زرد و آبی رنگ‌های خالص بوده و از ترکیب هیچ رنگ
             دیگری به دست نمی‌آیند. اگر سه رنگ با هم مخلوط شوند نتیجه کار رنگ
@@ -32,7 +32,7 @@ export default function CircleColor() {
         </div>
 
         <div className="circlecolor__title" id="circlecolor-title-3">
-          <h3>رنگ های ثانویه</h3>
+          <h3>رنگ‌های ثانویه</h3>
           <h5>
             از ترکیب مساوی دو رنگ اصلی رنگ‌های ثانویه به دست می‌آید. نارنجی، سبز
             و بنفش رنگ‌های ثانویه هستند.
@@ -40,10 +40,10 @@ export default function CircleColor() {
         </div>
 
         <div className="circlecolor__title" id="circlecolor-title-4">
-          <h3>رنگ های مرتبه سوم</h3>
+          <h3>رنگ‌های مرتبه سوم</h3>
           <h5>
-            رنگهای قرمز-نارنجی، قرمز-بنفش، زرد-سبز، زرد-نارنجی، آبی-بنفش و
-            آبی-سبز از رنگ‌های اصلی و ثانویه با هم ترکیب شده و رنگ‌های مرتبه سوم
+            رنگهای قرمز - نارنجی، قرمز - بنفش، زرد - سبز، زرد - نارنجی، آبی - بنفش و
+            آبی - سبز از رنگ‌های اصلی و ثانویه با هم ترکیب شده و رنگ‌های مرتبه سوم
             را تشکیل می‌دهند.
           </h5>
         </div>
